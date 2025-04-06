@@ -1,0 +1,10 @@
+{
+    "explorer.excludeGitIgnore": true,
+    "git.allowForcePush": true,
+    "git.allowNoVerifyCommit": true,
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "git.alwaysSignOff": true,
+    "git.branchRandomName.enable": true,
+    "git.diagnosticsCommitHook.Enabled": true,
+    "git.enableCommitSigning": true
+}
